@@ -101,7 +101,7 @@ Os testes são executados automaticamente durante o `docker compose up --build`.
 
 ---
 
-## 🚀 Como Rodar
+## Como Rodar
 
 ### Pré-requisitos
 
@@ -112,7 +112,7 @@ Os testes são executados automaticamente durante o `docker compose up --build`.
 **1. Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/event-hub-api.git
+https://github.com/guiklinke/event-hub.git
 cd event-hub-api
 ```
 
